@@ -1,13 +1,19 @@
-# Site settings
+---
 title: Mahad Qureshi | Product Designer
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: hello@mahadqureshi.com
-description: > # this means to ignore newlines until "baseurl:"
+description: |
   I'm Mahad. I'm a designer in DC.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: ''
+url: http://yourdomain.com
 twitter_username: mahdqureshi
-github_username:  mahdqureshi
-permalink: /:title
-
-# Build settings
+github_username: mahdqureshi
+permalink: "/:title"
 markdown: kramdown
