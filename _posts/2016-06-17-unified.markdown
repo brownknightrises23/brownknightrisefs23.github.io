@@ -19,4 +19,4 @@ role: Co-Founder & Chief Product Officer
 
 ![portal 1](/img/portal2.png)
 
-<div class="caption">The desigsner can view their sales and earnings.</div>
+<div class="caption">The designer can view their sales and earnings.</div>
