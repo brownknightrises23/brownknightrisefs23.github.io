@@ -1,13 +1,16 @@
 ---
+title: Showcase
+date: 2016-06-18 22:32:32 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "Showcase"
-date:   2016-06-18 18:32:32 -0400
-categories: jekyll update
 img: dribbble.png
-color: "white"
+color: white
 text-color: "#111"
 role: Co-Founder & Chief Product Officer
 ---
+
 ## Exchange your entire portfolio just by touching phones with Showcase.
 
 #### **[tryshowcase.com](http://tryshowcase.com)**

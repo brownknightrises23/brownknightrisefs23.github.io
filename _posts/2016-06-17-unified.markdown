@@ -1,13 +1,16 @@
 ---
+title: Unified App
+date: 2016-06-17 22:32:32 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "Unified App"
-date:   2016-06-17 18:32:32 -0400
-categories: jekyll update
 img: unified-design.png
 color: "#FFEBEA"
 text-color: "#111"
 role: Co-Founder & Chief Product Officer
 ---
+
 ## An early iteration of the **[Showcase App](/showcase-app)** involved a web app in which designers could create and sell card designs.
 
 ![portal mac](/img/portal-macfront.png)
