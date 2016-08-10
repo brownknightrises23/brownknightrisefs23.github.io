@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Portfolio
+=======
+title: Mahad Qureshi | Product Designer
+>>>>>>> origin/master
 timezone: UTC
 collections:
   posts:
@@ -8,6 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+<<<<<<< HEAD
 defaults:
 - scope:
     path: ''
@@ -21,3 +26,14 @@ defaults:
   values:
     layout: page
 permalink: pretty
+=======
+email: hello@mahadqureshi.com
+description: |
+  I'm Mahad. I'm a designer in DC.
+baseurl: ''
+url: http://yourdomain.com
+twitter_username: mahdqureshi
+github_username: mahdqureshi
+permalink: "/:title"
+markdown: kramdown
+>>>>>>> origin/master
